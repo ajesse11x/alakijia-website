@@ -1,2 +1,0 @@
-# alakijia-website
-Begin app
